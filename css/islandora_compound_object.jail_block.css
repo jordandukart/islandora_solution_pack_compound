@@ -57,6 +57,9 @@ html:not(.js) #block-islandora-compound-object-compound-jail-display img.islando
 
 /* Tabs Controls */
 
+.tabs {
+  font-size: 94.5%;  
+}
 .tabs.primary > a {
   float: left;
 }
